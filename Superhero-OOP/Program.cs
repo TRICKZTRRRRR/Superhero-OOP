@@ -11,7 +11,10 @@ namespace Superhero_OOP
     {
         static void Main(string[] args)
         {
+        }
 
+        void SuperHero()
+        {
         }
     }
 }
